@@ -4,8 +4,8 @@
 # Desenvolvido por Guilherme Wanderley
 
 # Criando diretório do jogo pra poder resetar durante fase de testes. Comente quando for jogar. Descomente quando for desenvolver.
-mkdir jogo
-cd jogo/
+# mkdir jogo
+# cd jogo/
 
 clear
 
